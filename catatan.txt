@@ -1,0 +1,14 @@
+Typescript versi stabilnya dari javascript.
+Pemograman berorientasi objek.
+cara install Typescript
+npm init --y (nodejs)
+1. npm install -g typescript atau npm install typescript --save-dev 
+cek versi typescript 
+2. tsc --version
+penyesuaian format kodingan
+3. npm i --save-dev eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
+jalan compiler typescript
+4. npm run compile
+jalankan file yg sudah di compiler
+5.node dist/hello.js
+

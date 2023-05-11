@@ -1,0 +1,13 @@
+{
+    "compilerOptions": { //mengatur compiler typescript
+        "lib" : ["ES2015","DOM"],
+        "module": "CommonJS",
+        "outDir": "dist", //hasil file javascript digenerate ditempatkan
+        "strict" : true, //aturan penulisan coding
+        "target" : "ES2015"
+
+    },
+    "include" :["src"]
+}
+
+
