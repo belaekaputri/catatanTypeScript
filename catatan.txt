@@ -12,3 +12,5 @@ jalan compiler typescript
 jalankan file yg sudah di compiler
 5.node dist/hello.js
 
+folder di dist otomatis muncus saat menjalan compiler typescirpt : npm run compile
+
